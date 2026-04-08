@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("Screenshot\ From\ 2026-03-07\ 15-39-49.png");
+  background-repeat: repeat;
+  background-size: 460px;
+  background-position: -50px -50px;
+  background-color: rgb(40, 51, 86);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+#as {
+    border: 1px solid rgb(210, 12, 12);
+  color: #fff;
+  font-size: xx-large;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 900;
+  font-style: oblique;
+  background-color: rgb(121, 15, 227);
+  text-align: center;
+  direction: rtl;
+  display: block;
+ bbbg}
